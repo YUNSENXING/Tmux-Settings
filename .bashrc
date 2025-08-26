@@ -115,3 +115,6 @@ if ! shopt -oq posix; then
     . /etc/bash_completion
   fi
 fi
+
+# case-insensitive completion
+bind "set completion-ignore-case on"
