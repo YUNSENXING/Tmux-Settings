@@ -41,15 +41,11 @@ tmux
 ctrl + "
 ```
 
-![](assets\image-20251102192128610.png)
-
 3. Split pane horizontally
 
 ```
 ctrl + %
 ```
-
-![](assets\image-20251102192223782.png)
 
 4. Switch pane
 
