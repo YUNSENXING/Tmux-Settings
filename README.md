@@ -25,7 +25,12 @@ mv Tmux-Settings/.bashrc Tmux-Settings/.tmux.conf Tmux-Settings/.vimrc ~/
 source ~/.bashrc
 ```
 
+4. source `.tmux.conf`
 
+```
+tmux
+source-file ~/.tmux.conf
+```
 
 Usage
 
